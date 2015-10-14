@@ -1,6 +1,7 @@
 name: "Hem & Hadley's"
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.25645
+typography_spectrum: 0.30781
 cta:
   domain: null
   bucket: null
