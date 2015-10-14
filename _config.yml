@@ -21,9 +21,9 @@ color:
     - '#454444'
     - '#aeaeae'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0
 purpose:
   - name: awareness
     item: null
